@@ -1,14 +1,3 @@
-/**
- * @name st theme
- * @version 8.0
- * @description A simple but highly customizable theme, now sugar free!
- * @author Spectra
- * @invite PZdnCVD
- * @source https://github.com/xcruxiex/themes
- * @website https://betterdiscord.app/theme/Neutron
- * @BDEditor Neutron
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 
@@ -28,7 +17,3 @@
   --backgroundCode: rgb(0,0,0,0.5);
   --backgroundName: rgba(0 0 0 /.5);
 }
-
-/* Any custom CSS below here */
-
-
