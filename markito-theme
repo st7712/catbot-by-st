@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/1112133156196339742/1158112620713345055/Gmc4hGe.png');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 70px;
+  --backgroundOpacity: 1;
+  --homeImage: url('https://i.imgur.com/233d55Y.gif');
+  --homeImageSize: cover;
+  --themeColor1: #C27AFF;
+  --themeColor2: #467FFF;
+  --customFont: Montserrat;
+  --backgroundCode: rgb(0,0,0,0.5);
+  --backgroundName: rgba(0 0 0 /.5);
+}
