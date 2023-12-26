@@ -9,11 +9,11 @@
   --backgroundRepeat: no-repeat;
   --backgroundBlur: 30px;
   --backgroundOpacity: 1;
-  --homeImage: url('attachments');
+  --homeImage: url('https://cdn.discordapp.com/attachments/1169005024333021234/1189179059775746160/64803e56cfcba.gif');
   --homeImageSize: cover;
   --themeColor1: #C27AFF;
   --themeColor2: #467FFF;
   --customFont: Montserrat;
   --backgroundCode: rgb(0,0,0,0.5);
   --backgroundName: rgba(0 0 0 /.5);
-} 
+}
