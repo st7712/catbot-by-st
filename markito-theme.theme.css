@@ -2,18 +2,18 @@
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 
 :root {
-  --backgroundImage: url('https://cdn.discordapp.com/attachments/1112133156196339742/1158112620713345055/Gmc4hGe.png');
+  --backgroundImage: url('https://media1.tenor.com/m/XW8WHGMZavwAAAAC/steampeace-steamhappy.gif');
   --backgroundColor: #0d0d0d;
   --backgroundSize: cover;
   --backgroundPosition: center;
   --backgroundRepeat: no-repeat;
   --backgroundBlur: 30px;
   --backgroundOpacity: 1;
-  --homeImage: url('https://i.imgur.com/233d55Y.gif');
+  --homeImage: url('attachments');
   --homeImageSize: cover;
   --themeColor1: #C27AFF;
   --themeColor2: #467FFF;
   --customFont: Montserrat;
   --backgroundCode: rgb(0,0,0,0.5);
   --backgroundName: rgba(0 0 0 /.5);
-}
+} 
