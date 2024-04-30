@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@100;300;400;500;700&display=swap');
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 
 :root {
@@ -13,7 +13,7 @@
   --homeImageSize: cover;
   --themeColor1: #C27AFF;
   --themeColor2: #467FFF;
-  --customFont: Montserrat;
+  --customFont: Comfortaa;
   --backgroundCode: rgb(0,0,0,0.5);
   --backgroundName: rgba(0 0 0 /.5);
 }
