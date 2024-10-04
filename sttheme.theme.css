@@ -17,3 +17,8 @@
   --backgroundCode: rgb(0,0,0,0.5);
   --backgroundName: rgba(0 0 0 /.5);
 }
+
+ul[data-list-id="guildsnav"] > div[class^="footer"]
+{
+    display: none;
+}
